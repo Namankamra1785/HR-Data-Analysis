@@ -22,4 +22,4 @@ Here's how I made a difference:
 
 ✅Measurable impact: My efforts led to improved employee retention and enhanced talent acquisition strategies, positioning Psyliq for continued success.
 
-file:///C:/Users/nkamr/Pictures/Screenshots/Screenshot%202024-05-07%20014821.png
+![Screenshot 2024-05-07 014821](https://github.com/Namankamra1785/HR-Data-Analysis/assets/74761237/06508fd6-06c3-4d95-b915-edbfc7f4c00f)
